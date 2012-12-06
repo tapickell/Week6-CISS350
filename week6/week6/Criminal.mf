@@ -1,0 +1,34 @@
+Quickdraw McGraw
+has a Texas accent
+has a body guard
+is computer literate
+!
+Twingun Morgan
+has a New York accent
+has red hair
+smokes cigars
+!
+Jackda Ripper
+has a body guard
+bites his fingernails
+carries a knife
+is computer literate
+!
+Annie Getcher Gunn
+has a New York accent
+has red hair
+eats Fritos
+smokes cigars
+!
+Slowdrawl Raul
+has a Texas accent
+carries a knife
+is computer literate
+eats Fritos
+!
+Sloan de Uptake
+has a body guard
+has red hair
+bites his fingernails
+is computer literate
+!
